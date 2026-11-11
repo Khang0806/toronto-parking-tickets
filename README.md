@@ -2,7 +2,7 @@
 
 SQL + Power BI analysis of 6.2M parking tickets issued in the City of Toronto, built on PostgreSQL and the City's open data.
 
-![Dashboard](D:\6. Toronto Parking Tickets\Dashboard)
+![Dashboard](D:/6. Toronto Parking Tickets/Dashboard)
 
 ## Questions
 1. How did parking ticket revenue change month by month across 2022–2024?
