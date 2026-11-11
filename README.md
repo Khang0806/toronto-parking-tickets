@@ -44,3 +44,5 @@ Load_Data.py                  CSV loader
 dashboard.png                 dashboard screenshot
 Toronto_Parking_Ticket_Dashboard.pbix   Power BI file
 ```
+## Acknowledgements
+Built with assistance from Claude (Anthropic) for SQL review, debugging, and data-model guidance.
