@@ -39,8 +39,8 @@ PostgreSQL · DBeaver · Python (psycopg2) · Power BI
 
 ## Repo Structure
 ```
-sql/          setup, cleaning, analysis and view scripts
-python/       CSV loader
-dashboard/    Power BI file (.pbix)
-images/       dashboard screenshot
+toronto_parking_ticket.sql    setup, cleaning, analysis and view scripts
+Load_Data.py                  CSV loader
+dashboard.png                 dashboard screenshot
+Toronto_Parking_Ticket_Dashboard.pbix   Power BI file
 ```
